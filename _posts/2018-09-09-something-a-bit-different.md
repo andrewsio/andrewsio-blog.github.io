@@ -4,7 +4,7 @@ date: 2018-09-09
 layout: post
 categories: blog
 tags: brussels belgium europe train travel training work beer ccl leadership
-image: import/be912-european_commission.jpg
+image: /assets/img/import/be912-european_commission.jpg
 redirect_from:
   - /blog/something-a-bit-different
 ---

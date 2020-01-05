@@ -4,7 +4,7 @@ title:  "Lower Upnor Through the Years"
 date:   2019-09-28
 categories: blog
 tags: upnor lower-upnor home
-image: upnor-1.jpg
+image: /assets/img/upnor-1.jpg
 redirect_from:
   - /blog/upnor-through-the-years
 ---

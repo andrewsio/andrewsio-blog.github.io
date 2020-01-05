@@ -4,7 +4,7 @@ title:  "Train to Turkey - Leg 6 - Zagreb to Belgrade"
 date:   2019-07-11
 categories: blog
 tags: croatia zagreb serbia blegrade traintoturkey owen trains rail travel inter-rail
-image: traintoturkey-leg6-1.jpg
+image: /assets/img/traintoturkey-leg6-1.jpg
 redirect_from:
   - /blog/train-to-turkey-zagreb-to-belgrade
 ---

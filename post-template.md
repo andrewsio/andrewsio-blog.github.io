@@ -6,10 +6,12 @@ date:   2019-10-27
 layout: post
 categories: blog
 tags:
-image: import/photo-1.jpg
+image: /assets/img/import/photo-1.jpg
 redirect_from:
   - /blog/
 ---
+
+/assets/img/import/
 
 [link text][1]
 [1]: http://linkurl

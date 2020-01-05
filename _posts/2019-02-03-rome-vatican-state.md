@@ -4,7 +4,7 @@ date: 2019-02-03
 layout: post
 categories: blog
 tags: italy vatican-city travel beer flight british-airways work cushman
-image: import/a6fd9-river_tiber.jpg
+image: /assets/img/import/a6fd9-river_tiber.jpg
 redirect_from:
   - /blog/rome-vatican-state
 ---

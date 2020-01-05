@@ -4,7 +4,7 @@ date: 2019-06-04
 layout: post
 categories: blog
 tags: beer london brew coolhead craft bbno uk
-image: import/898d3-bbno_peckham.jpg
+image: /assets/img/import/898d3-bbno_peckham.jpg
 redirect_from:
   - /blog/coolhead-visit-london
 ---

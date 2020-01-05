@@ -4,7 +4,7 @@ date: "2019-01-06"
 layout: post
 categories: blog
 tags: beer germany christmas family travel haribo
-image: import/02df3-christmas_market.jpg
+image: /assets/img/import/02df3-christmas_market.jpg
 redirect_from:
   - /blog/cologne-germany
 ---

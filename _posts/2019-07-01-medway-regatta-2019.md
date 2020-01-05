@@ -4,7 +4,7 @@ title: "Medway Regatta 2019"
 date: 2019-07-01
 categories: blog
 tags: sailing medway river yacht-club upnor rochester boats
-image: medway-regatta-2019-1.jpg
+image: /assets/img/medway-regatta-2019-1.jpg
 redirect_from:
   - /blog/medway-regatta-2019
 ---

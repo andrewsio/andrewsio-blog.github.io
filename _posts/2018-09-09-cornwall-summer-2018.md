@@ -4,7 +4,7 @@ date: 2018-09-09
 layout: post
 categories: blog
 tags: cornwall longstore rising-sun pub cronwall travel mr-smalls
-image: import/697f1-tamar_valley.jpg
+image: /assets/img/import/697f1-tamar_valley.jpg
 redirect_from:
   - /blog/cornwall-summer-2018
 ---

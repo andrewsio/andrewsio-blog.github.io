@@ -4,7 +4,7 @@ date: 2018-07-28
 layout: post
 categories: blog
 tags: wedding lomas esme marriage frindsbury home
-image: import/7f302-confetti.jpg
+image: /assets/img/import/7f302-confetti.jpg
 redirect_from:
   - /blog/esme-lomas-wedding
 ---

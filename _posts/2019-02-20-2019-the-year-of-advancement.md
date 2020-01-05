@@ -4,7 +4,7 @@ date: 2019-02-20
 layout: post
 categories: blog
 tags: beer 2019
-image: import/59506-beers.jpg
+image: /assets/img/import/59506-beers.jpg
 redirect_from:
   - /blog/2019-the-year-of-advancement
 ---

@@ -4,7 +4,7 @@ date: 2018-09-15
 layout: post
 categories: blog
 tags: running exercise gillingham parkrun
-image: import/b0b11-img_9298.jpg
+image: /assets/img/import/b0b11-img_9298.jpg
 redirect_from:
   - /blog/my-first-parkrun
 ---

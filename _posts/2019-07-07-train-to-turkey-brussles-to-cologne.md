@@ -4,7 +4,7 @@ title:  "Train to Turkey - Leg 3 - Brussels to Cologne"
 date:   2019-07-07 17:00:00
 categories: blog
 tags: belgium brussels germany cologne thalys traintoturkey owen trains rail travel inter-rail
-image: traintoturkey-leg3-1.jpg
+image: /assets/img/traintoturkey-leg3-1.jpg
 redirect_from:
   - /blog/train-to-turkey-brussles-to-cologne
 ---

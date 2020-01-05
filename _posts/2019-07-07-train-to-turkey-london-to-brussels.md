@@ -4,7 +4,7 @@ title:  "Train to Turkey - Leg 2 - London to Brussels"
 date:   2019-07-07 09:00:00
 categories: blog
 tags: london belgium united kingdom brussels eurostar traintoturkey owen trains rail travel inter-rail
-image: traintoturkey-leg2-1.jpg
+image: /assets/img/traintoturkey-leg2-1.jpg
 redirect_from:
   - /blog/train-to-turkey-london-to-brussels
 ---

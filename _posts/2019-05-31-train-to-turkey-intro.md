@@ -4,7 +4,7 @@ date: 2019-05-31
 layout: post
 categories: blog
 tags: train traintoturkey railway europe travel holiday owen inter-rail
-image: import/3d1ff-route_map3.jpeg
+image: /assets/img/import/3d1ff-route_map3.jpeg
 redirect_from:
   - /blog/train-to-turkey-intro
 ---

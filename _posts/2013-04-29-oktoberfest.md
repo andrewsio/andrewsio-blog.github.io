@@ -4,7 +4,7 @@ date: "2013-04-29"
 layout: post
 categories: blog
 tags: oktoberfest germany munich beer bavaria
-image: import/6cdb3-oktoberfest_1.jpg
+image: /assets/img/import/6cdb3-oktoberfest_1.jpg
 redirect_from:
   - /blog/196
 ---

@@ -4,7 +4,7 @@ date: 2019-06-30
 layout: post
 categories: blog
 tags: wedding home love victoria medway family friends getting-married
-image: import/88760-455img-0.jpg
+image: /assets/img/import/88760-455img-0.jpg
 redirect_from:
   - /blog/a-very-special-birthday
 ---

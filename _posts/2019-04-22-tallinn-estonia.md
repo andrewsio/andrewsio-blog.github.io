@@ -4,7 +4,7 @@ date: 2019-04-22
 layout: post
 categories: blog
 tags: estonia tallinn city travel
-image: import/6e606-tallinn_dock.jpg
+image: /assets/img/import/6e606-tallinn_dock.jpg
 redirect_from:
   - /blog/tallinn-estonia
 ---

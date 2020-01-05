@@ -4,7 +4,7 @@ title:  "Train to Turkey - Leg 4 - Cologne to Munich"
 date:   2019-07-08
 categories: blog
 tags: germany cologne munich deutsche-bahn traintoturkey owen trains rail travel inter-rail
-image: traintoturkey-leg4-1.jpg
+image: /assets/img/traintoturkey-leg4-1.jpg
 redirect_from:
   - /blog/train-to-turkey-cologne-to-munich
 ---

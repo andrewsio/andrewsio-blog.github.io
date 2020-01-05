@@ -4,7 +4,7 @@ title:  "Kyiv, Ukraine"
 date:   2019-10-27
 categories: blog
 tags: kyiv kiev ukraine traintoturkey
-image: kyiv-1.jpg
+image: /assets/img/kyiv-1.jpg
 redirect_from:
   - /blog/kyiv-ukraine
 ---

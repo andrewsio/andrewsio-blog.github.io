@@ -4,7 +4,7 @@ date: 2018-09-11
 layout: post
 categories: blog
 tags: scuba southern-scuba diving vobster uk
-image: import/45267-img_006828129.jpg
+image: /assets/img/import/45267-img_006828129.jpg
 redirect_from:
   - /blog/passing-padi-tec40
 ---

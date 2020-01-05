@@ -162,6 +162,19 @@ hr {
   font-size:0.8rem;
 }
 
+.post-copyright {
+  display: block;
+  color: #9a9a9a;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size:0.8rem;
+  margin-top: 10px;
+}
+
+.post-hit-counter {
+  display: block;
+  margin-top: 8px;
+}
+
 @media (max-width: 30rem) {
   .posts h1 {
     font-size: 1.5rem;

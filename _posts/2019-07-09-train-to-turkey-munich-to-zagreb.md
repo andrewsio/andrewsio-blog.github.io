@@ -4,7 +4,7 @@ title:  "Train to Turkey - Leg 5 - Munich to Zagreb"
 date:   2019-07-09
 categories: blog
 tags: germany munich night jet austria slovenia ljubjana croatia zagreb sleeper traintoturkey owen trains rail travel inter-rail
-image: traintoturkey-leg5-1.jpg
+image: /assets/img/traintoturkey-leg5-1.jpg
 redirect_from:
   - /blog/train-to-turkey-munich-to-zagreb
 ---

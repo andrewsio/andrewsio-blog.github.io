@@ -4,7 +4,7 @@ date: "2019-01-13"
 layout: post
 categories: blog
 tags: austria travel vienna
-image: import/72715-black-camel.jpg
+image: /assets/img/import/72715-black-camel.jpg
 redirect_from:
   - /blog/vienna-austria
 ---

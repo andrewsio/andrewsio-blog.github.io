@@ -4,7 +4,7 @@ date: "2018-02-18"
 layout: post
 categories: blog
 tags: yellowcard 2017 band london teeth blog tough-mudder nottingham travel hooters brewdog beer car set-it-off wisdom may st-panc
-image: import/30187-east-coast-crush.jpg
+image: /assets/img/import/30187-east-coast-crush.jpg
 redirect_from:
   - /blog/may-2017-the-missing-blogs
 ---

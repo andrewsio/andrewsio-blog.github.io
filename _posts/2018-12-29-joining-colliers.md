@@ -4,7 +4,7 @@ date:   2018-12-29
 layout: post
 categories: blog
 tags: colliers cushman work news 2018 job
-image: import/3a6e6-img_0465.jpeg
+image: /assets/img/import/3a6e6-img_0465.jpeg
 redirect_from:
   - /blog/joining-colliers
 ---

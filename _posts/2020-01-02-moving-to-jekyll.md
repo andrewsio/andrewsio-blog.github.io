@@ -4,7 +4,7 @@ date:   2020-01-02
 layout: post
 categories: blog
 tags: new-year blog 2020 blogging squarespace jekyll github github-pages markdown
-image: new-blog.jpg
+image: /assets/img/new-blog.jpg
 ---
 
 Want to hear something frightening? Since I moved my blog to Squarespace I have given them $1,210 dollars. **That is INSANE.** It's enough for a trip to NYC!  

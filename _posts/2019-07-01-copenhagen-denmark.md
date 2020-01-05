@@ -4,7 +4,7 @@ date: 2019-07-01
 layout: post
 categories: blog
 tags: denmark copenhagen travel 2019 trip work water
-image: import/2b006-img_3844.jpg
+image: /assets/img/import/2b006-img_3844.jpg
 redirect_from:
   - /blog/copenhagen-denmark
 ---

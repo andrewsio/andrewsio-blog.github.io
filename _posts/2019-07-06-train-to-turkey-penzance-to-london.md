@@ -4,7 +4,7 @@ title:  "Train to Turkey - Leg 1 - Penzance to London"
 date:   2019-07-06
 categories: blog
 tags: london cornwall united-kingdom uk sleeper fgw traintoturkey owen trains rail travel inter-rail
-image: traintoturkey-leg1-1.jpg
+image: /assets/img/traintoturkey-leg1-1.jpg
 redirect_from:
   - /blog/train-to-turkey-penzance-to-london
 ---

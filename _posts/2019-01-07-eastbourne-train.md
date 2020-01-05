@@ -4,7 +4,7 @@ date: "2019-01-07"
 layout: post
 categories: blog
 tags: train train map railway rail beer england
-image: import/64f4e-hastings-tunnel.jpg
+image: /assets/img/import/64f4e-hastings-tunnel.jpg
 redirect_from:
   - /blog/eastbourne-train
 ---

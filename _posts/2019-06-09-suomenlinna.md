@@ -4,7 +4,7 @@ date: 2019-06-09
 layout: post
 categories: blog
 tags: finland helsinki suomenlinna work travel boats islands
-image: import/f08e6-suomenlinna_1.jpg
+image: /assets/img/import/f08e6-suomenlinna_1.jpg
 redirect_from:
   - /blog/suomenlinna
 ---
