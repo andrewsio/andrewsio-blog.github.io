@@ -12,10 +12,10 @@ There's no doubt that we're living in a time where history is being written. Sin
 
 After days of victory claiming and tweeting nonsense he slipped up with this gem:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">He only won in the eyes of the FAKE NEWS MEDIA. I concede NOTHING! We have a long way to go. This was a RIGGED ELECTION!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1327979630477922304?ref_src=twsrc%5Etfw">November 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">He won because the Election was Rigged. NO VOTE WATCHERS OR OBSERVERS allowed, vote tabulated by a Radical Left privately owned company, Dominion, with a bad reputation &amp; bum equipment that couldn’t even qualify for Texas (which I won by a lot!), the Fake &amp; Silent Media, &amp; more! <a href="https://t.co/Exb3C1mAPg">https://t.co/Exb3C1mAPg</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1327956491056279552?ref_src=twsrc%5Etfw">November 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Before later reassuring his following that didn't concede:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">He only won in the eyes of the FAKE NEWS MEDIA. I concede NOTHING! We have a long way to go. This was a RIGGED ELECTION!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1327979630477922304?ref_src=twsrc%5Etfw">November 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-This saga is as entertaining and frightening as I hoped it would be. I absolutely love that Twitter have added the dispute tags to his tweets. Can't wait to see what happens next, I hope they make a Netflix documentary out of it. 
+This saga is as entertaining and frightening as I hoped it would be. I absolutely love that Twitter have added the dispute tags to his tweets. Can't wait to see what happens next, I hope they make a Netflix documentary out of it.
