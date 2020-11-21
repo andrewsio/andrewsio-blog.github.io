@@ -8,18 +8,20 @@ menu:
 - {name: 'Archive', path: 'menu', url: 'archive.html'}
 - {name: 'Rail Map', path: 'menu', url: 'railmap.html'}
 - {name: 'The List', path: 'menu', url: 'thelist.html'}
-- {name: 'Ramblings', path: 'tag', url: 'ramblings'}
-- {name: 'Microblog', link: 'https://andrewsio.micro.blog/'}
+- {name: 'Ramblings', path: 'tag', url: 'ramblings.html'}
+
+link:
+- {name: 'Micro.blog', path: 'ext', url: 'https://andrewsio.micro.blog/'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'microblog', link: 'https://andrewsio.micro.blog/'}
-- {icon: 'twitter', link: 'https://twitter.com/14zz4'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/laurence-andrews/'}
-- {icon: 'instagram', link: 'https://www.instagram.com/14zz4/'}
-- {icon: 'envelope', link: 'mailto:laurence@andrews.io'}
-- {icon: 'github', link: 'https://www.github.com/andrewsio'}
-- {icon: 'rss-square', link: '/feed.xml'}
+- {fa-type: 'fab', icon: 'microblog', link: 'https://andrewsio.micro.blog/'}
+- {fa-type: 'fab', icon: 'twitter', link: 'https://twitter.com/14zz4'}
+- {fa-type: 'fab', icon: 'linkedin', link: 'http://www.linkedin.com/in/laurence-andrews/'}
+- {fa-type: 'fab', icon: 'instagram', link: 'https://www.instagram.com/14zz4/'}
+- {fa-type: 'fas', icon: 'envelope', link: 'mailto:laurence@andrews.io'}
+- {fa-type: 'fab', icon: 'github', link: 'https://www.github.com/andrewsio'}
+- {fa-type: 'fas', icon: 'rss-square', link: '/feed.xml'}
 
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
