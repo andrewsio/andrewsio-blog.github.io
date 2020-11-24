@@ -64,7 +64,7 @@ vi missingjson.txt
 
 Run this once you're in Vi:
 
-% highlight shell %}
+{% highlight shell %}
 %s/$/.json/
 {% endhighlight %}
 
@@ -104,6 +104,6 @@ When I importing into Photos import all pictures directly into an album (e.g. ye
 Once done, you can select all images/videos with incorrect date and manually set the date to something within that year (e.g. 1/1/year) to avoid photos showing up in completely the wrong place. You can do this in apple by selecting all photos.
 
 ## Repeat for each batch
-This is a long winded process and is almost certainly not the most efficient way of doing this, but it seemed to work for me. Apologies if I haven't attributed anyone for the commands, I did this about 9 months ago and wrote this based on the notes I took at the time. I do however remember trying to piece things together and certainly didn't find a comprehensive guide on this. 
+This is a long winded process and is almost certainly not the most efficient way of doing this, but it seemed to work for me. Apologies if I haven't attributed anyone for the commands, I did this about 9 months ago and wrote this based on the notes I took at the time. I do however remember trying to piece things together and certainly didn't find a comprehensive guide on this.
 
 If this helped, send me a [tweet](https://twitter.com/14zz4) ✌️
