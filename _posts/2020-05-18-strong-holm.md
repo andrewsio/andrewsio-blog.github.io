@@ -4,7 +4,6 @@ date:   2020-05-18
 layout: post
 categories: blog
 tags: ramblings rya sailing ironpier coronavirus dayskipper
-hidden: true
 location: "Upnor, Kent, UK"
 ---
 

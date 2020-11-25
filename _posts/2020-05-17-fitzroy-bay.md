@@ -4,7 +4,6 @@ date:   2020-05-17
 layout: post
 categories: blog
 tags: ramblings rya sailing
-hidden: true
 location: "Upnor, Kent, UK"
 ---
 

@@ -4,7 +4,6 @@ date:   2020-05-19
 layout: post
 categories: blog
 tags: ramblings rya sailing dayskipper
-hidden: true
 location: "Upnor, Kent, UK"
 image: /assets/img/holm-point-1.jpg
 ---

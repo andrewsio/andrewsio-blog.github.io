@@ -4,7 +4,6 @@ date:   2020-05-14
 layout: post
 categories: blog
 tags: ramblings verdant youtube ironpier youtube running
-hidden: true
 ---
 
 Great news! The £31 beer arrived today. My strategy of ordering Verdant beer bang on release time at 10:30 am on Wednesday is working out well. It arrived in less than 24 hours, which is pretty impressive by anyone's standards. It went straight into the fridge and I'm currently enjoying a cold can of 'There will be no intervals' which is a Mosaic and Simcoe Pale Ale. I think it's up there, but not my absolute fave. I love Verdant beer and the 4.5% stuff is really where it's at, the DIPAs are just too heavy. They have their place in the world but you need to be in the right mood to enjoy them.  

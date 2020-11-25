@@ -4,12 +4,11 @@ date:   2020-05-22
 layout: post
 categories: blog
 tags: ramblings rya sailing dayskipper upnor scuba tarquins verdant
-hidden: true
 location: "Upnor, Kent, UK"
 image: /assets/img/cocked-hat-1.jpg
 ---
 
-Wednesday's Day Skipper lesson was great. The Zoom format continues to work very well and I'm enjoying being able to be in my own space and not have to worry about other people. We covered some interesting topics, how to calculate bearing, position fixing, and compass variation and deviation, which was a new concept to me. We also covered tides and depth theory, the concept of tides is something i've sort of understood but it's nice to learn about it properly. Homework from lesson 2 wasn't too difficult, perhaps two hours in total and most of that I wrapped up straight after the lesson like the good student I am. A [cocked hat](https://en.wikipedia.org/wiki/Fix_(position)) by the way is a positing term, for when three position lines are taken but don't perfectly intersect, creating a triangle. 
+Wednesday's Day Skipper lesson was great. The Zoom format continues to work very well and I'm enjoying being able to be in my own space and not have to worry about other people. We covered some interesting topics, how to calculate bearing, position fixing, and compass variation and deviation, which was a new concept to me. We also covered tides and depth theory, the concept of tides is something i've sort of understood but it's nice to learn about it properly. Homework from lesson 2 wasn't too difficult, perhaps two hours in total and most of that I wrapped up straight after the lesson like the good student I am. A [cocked hat](https://en.wikipedia.org/wiki/Fix_(position)) by the way is a positing term, for when three position lines are taken but don't perfectly intersect, creating a triangle.
 
 In [Strong Holm]({{ site.baseurl }}{% link _posts/2020-05-18-strong-holm.md %}) I posted about how people were abusing the 'take away' for the pub. Well, turns out somebody must have said something because there are now warning notices duck-taped to each of the pub benches. For those wondering, it wasn't me,  I'm far too lazy to bother complaining about something like that, I'd rather just moan about it here. I suppose it could be that my blog is now so popular that it's having an impact in the real world, but I highly doubt that since the post has only been read six times.
 

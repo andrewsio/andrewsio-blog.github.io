@@ -4,7 +4,6 @@ date:   2020-05-23
 layout: post
 categories: blog
 tags: ramblings rya sailing dayskipper upnor car audi colliers
-hidden: true
 location: "Marylebone, London, UK"
 image: /assets/img/dent-reckoning-1.jpg
 ---

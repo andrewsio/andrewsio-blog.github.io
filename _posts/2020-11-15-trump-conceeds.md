@@ -4,7 +4,6 @@ date:   2020-11-15
 layout: post
 categories: blog
 tags: ramblings trump us-presidency
-hidden: true
 location: "Upnor, Kent, UK"
 ---
 
