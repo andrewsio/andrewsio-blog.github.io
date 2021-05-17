@@ -1,6 +1,6 @@
 ---
 title:  "Race 3 - 2021 Spring Series"
-date:   2021-05-12
+date:   2021-05-16
 layout: post
 categories: blog
 tags: sailing astral myc upnor

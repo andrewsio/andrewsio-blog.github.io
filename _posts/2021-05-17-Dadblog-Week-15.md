@@ -1,6 +1,6 @@
 ---
 title:  "Dadblog - Week 15"
-date:   2021-05-12
+date:   2021-05-17
 layout: post
 categories: blog
 tags: dadblog family baby
@@ -22,4 +22,4 @@ The other house change is the need for us to replace the shower screen in the ba
 
 Next week we're off to Cornwall to see family, it properly feels like we haven't been in absolute ages so can't wait to get down. The first stop is Charlestown, with dinner planned in one of my favourite restaurants, [The Longstore](https://www.thelongstore.co.uk) before heading back to the Tamar Valley with another dinner planned in the gorgeous [Ship Inn, Noss Mayo](https://nossmayo.com). Later in the week Victoria and I are off for a postponed birthday dinner in [Thackeray's](https://www.thackerays-restaurant.co.uk) in Tunbridge Wells, a very special restaurant. Then it's three days of sailing in the Medway Keelboat Regatta, which I absolutely can't wait for! If that wasn't enough, the first weekend it's the return of the Monaco Grand Prix which was cancelled last year. Certainly set to be a fun-packed week. Let's hope Boris holds firm with relaxing the rules or we're going to be in big trouble!
 
-Dadblog out. 
+Dadblog out.
