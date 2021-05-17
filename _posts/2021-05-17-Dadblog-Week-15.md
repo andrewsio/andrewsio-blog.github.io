@@ -1,0 +1,25 @@
+---
+title:  "Dadblog - Week 15"
+date:   2021-05-12
+layout: post
+categories: blog
+tags: dadblog family baby
+location: "Upnor, Kent, UK"
+image:
+---
+
+It's been a busy few weeks since the announcement post and I'm pleased to say that Operation Bean is moving forward at full throttle. The biggest news since is that the bean is now 'showing' which I understand to be the politically correct terminology, which is very exciting indeed. We have drawn up a baby checklist with the help of our book and ordered them based on urgency.
+
+First on the list was to tidy the loft space and make sure everything is sorted out. We don't really have that much stuff, but since we're not moving in the next 6 months but do expect to move in the next few years it'll mean we will be moving as a family. Sorting out the loft wasn't the most fun job ever as I was a bit hungover from celebrating my boss's birthday in London the night before. I soldiered on and we chucked out a lot of junk, took a bunch of stuff to the charity shop and Victoria did an excellent job getting everything organised properly. We just need to take the junk that's rubbish to the tip, which at present needs to be booked online many days in advance. This is really rather annoying as just turning up at the tip with stuff was in the pre-COVID world, much, much easier, I doubt we'll ever see a return to that way of operating.
+
+We've also been clothes shopping now that the shops are back open again, an odd experience because there are fewer shops open in Bluewater than there were before lockdown. Not that I would really know, but apparently there really aren't many clothes shops that sell maternity clothes anymore. I'm sure that I remember the bigger shops all having a section, certainly Marks & Spencer who despite having an absolutely enormous shop don't have any. There was a few in Next and some in Primark. Victoria got a few bits but found more success online as seems to be the way now. I got myself some new trousers as to not feel left out, not from the maternity section.
+
+We spent some more time thinking about the buggy (aka Travel System) and have begun to narrow down our choice a little. We've decided to spend some of our savings on the buggy as it feels like quite a special thing. The number of options available and considerations for which is best is really quite outstanding, but I think we're getting close, once we've found the one we will probably keep an eye on deals and prices since we have a little while yet. As I type this there is a not completely unrealistic concern of a third lockdown, some parts of the UK have been forced into localised lockdowns again, despite national cases being low and vaccinations continuing (I'm still waiting).
+
+On the house front we made a few changes, today I moved my office back to the previous configuration, with my desk now on the wall nearest the hallway. I was finding that I was getting a sore right shoulder which I think is caused by me twisting because I have the wall and window on my right side. We'll see if this makes any difference, it's less of an ideal layout but if it helps then great. Having my whiteboard above my desk so far seems to be a winner, I can no longer escape my to-do list. Victoria has been working on sorting out the guest bedroom which will become the nursery, we will need to put most of her craft things into the office so will need some more storage.
+
+The other house change is the need for us to replace the shower screen in the bathroom. We currently have a single pane screen which works great but is kind of restrictive when you need to access the taps while not actually in the bath. It's not too much of a problem when we use the bath to wash the dog because we can reach around and then position the screen over the bath, blocking the taps, but this is really not ideal for when there's a baby in the bath! I managed to find a screen online that's the same length but folds in the middle, which should hopefully mean the outer flap can swing over the bath and give us access to the taps. It was a bit of purchase at £200 odd quid, but not really one we could avoid.
+
+Next week we're off to Cornwall to see family, it properly feels like we haven't been in absolute ages so can't wait to get down. The first stop is Charlestown, with dinner planned in one of my favourite restaurants, [The Longstore](https://www.thelongstore.co.uk) before heading back to the Tamar Valley with another dinner planned in the gorgeous [Ship Inn, Noss Mayo](https://nossmayo.com). Later in the week Victoria and I are off for a postponed birthday dinner in [Thackeray's](https://www.thackerays-restaurant.co.uk) in Tunbridge Wells, a very special restaurant. Then it's three days of sailing in the Medway Keelboat Regatta, which I absolutely can't wait for! If that wasn't enough, the first weekend it's the return of the Monaco Grand Prix which was cancelled last year. Certainly set to be a fun-packed week. Let's hope Boris holds firm with relaxing the rules or we're going to be in big trouble!
+
+Dadblog out. 
