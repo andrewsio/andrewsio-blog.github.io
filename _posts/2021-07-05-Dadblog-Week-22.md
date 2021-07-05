@@ -1,0 +1,29 @@
+---
+title:  "Dadblog - Week 20"
+date:   2021-06-24
+layout: post
+categories: blog
+tags: dadblog family baby
+location: "Upnor, Kent, UK"
+image:
+---
+
+Not quite sure how, but an entire month has passed since the last blog post. Well, I do know how, because we've been really busy doing things and having a lovely time, but it still seems to have gone very quickly! I may have to recap and fill in some of the details on this at a later date, because there is really rather a lot to cover - but I'll do my best and try to focus on Dad Blog topics.
+
+We're now on week 20 and well, the bean is showing! Pregnancy clothes are requirement rather a nicety but both Victoria and the bean are doing really well. The weather has been amazing for most of the past month and gradually getting warmer and warmer, last week was great, hottest of the year so far and the paddling pool was out!
+
+The todo list has been going really well and we've ticked most of the major boxes... We've booked baby classes with NCT on the advice of a few people with in-person(!) sessions scheduled for September. Not sure we would have booked these if it weren't for the advice of others but as the weeks have gone by I've found myself looking forward to them more and more. Aside from my dad book and conversations with others, there really isn't any way to know what to do when the baby comes, so I'm looking forward to being told what to do! It's a step outside of our comfort zone too, which is probably a good thing. Hopefully it'll also be a good way of getting to know other people who are going through the same experience as us, I think there is a catch up with the group after the baby is born too, which will be interesting.
+
+We have found the pram! Sorry, the 'travel system'. We decided on the Mamas & Papas Occaro which comes with all sorts of accessories including a lie-flat swivelling car seat which seems quite snazzy. We visited the shop at Lakeside and made sure that everything fits in the boot, which it does, although there isn't too much room for very much else. It's in a dark navy material with a gold/bronze (Onyx?) colour metal which seems nice. Appears to be a very sturdy push chair which is big enough without being too big. After a bit of hassle we got a £150 gift voucher too, which was good. It gets delivered in early September, so just in time for baby classes!
+
+The furniture for the nursery is all sorted too, Victoria spotted a bargain online for the Mamas & Papas Keswick furniture 2nd hand from somebody not too far away. After checking it, it was basically brand new and perfect for us. So we got a right steal for that and saved the environment too! We had to stick it on Dad's trailer to get it home after negotiating the stairs in the house we had to remove it from - bit of a 'mare, but all fine. Setting it up at home it looks great, the cot/crib converts to a small toddler-sized bed when necessary, so we should last us a little while. Oh, and extra bonus, the bed that was in this room, which we bought brand new before lock down we managed to sell for a few hundred quid, so that helped.
+
+Elsewhere in the house we've been getting things ready. I replaced our shower door with one that folds so that it's easy to reach into the bath without the door being in the way. We should have done this a long time ago, it is so much better compared to the old door. Wasn't cheap, £200 is a lot for a lump of glass, but it's working great.
+
+We also decided to treat ourselves to some new sofas (on the same day as buying the pram!), complete impulse purchase but long story short, Harvey's at Lakeside were having a liquidation. There was a fabric suite with electric recline, basically exactly what we had been thinking of buying. We paid for them (after taking a load of cash out, because they insisted on a part-cash payment) and some random bloke who seemed to be working for Harvey's turned up with them the next day (who we also paid in cash). Very odd, but a total steal.
+
+Last house upgrade was installing a Nest thermostat. We'd been toying about getting one for probably about four years and every winter we manage without and by the time we're sick of not being able to control the heating remotely, it's spring again. This year we said sod it and had the heating bloke come round with it and set it up. Don't know how we lived without this before now, absolute game changer. I setup Homebridge on the RaspberryPi and nest is all hooked up with Apple Home too, very good bit of software.
+
+The biggest news for this blog is that we have just today been and done our 20-week scan. This was the first time I've been to the hospital with Victoria for anything to do with the baby, so quite a big deal. We visited Medway Hospital in the afternoon, there we put on our masks and had our temperature taken as we went in, at reception I showed my negative covid test and we then sat in the waiting room which had perspex dividers between every chair. A very odd experience! We were called up by the Sonographer/Doctor who took us to one of the ultasound rooms and got strait to the job of jelly'ing up Victoria's bump!
+
+It was all a bit less fancy than the setup in Maidstone, but perfectly fine. The baby has grown a LOT since I last saw, we could see their spine, feet, fingers, eyes and even the chambers of the heart pumping away. They took measurements of lots of things, to make sure that the baby is growing properly. We saw that baby had it's thumb in it's mouth which was very cute indeed! This is the scan where we could have chosen to know the sex and we needed to look away at times so we wouldn't try and work it out. We were in the room for about 20 minutes of so and at the end Victoria was able to take a short video with the baby's heartbeat. Very excited, we're officially half way...!!
