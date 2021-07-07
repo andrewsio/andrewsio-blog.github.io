@@ -8,7 +8,7 @@ menu:
 - {name: 'Archive', path: 'menu', url: 'archive.html'}
 
 link:
-- {name: 'Micro.blog', path: 'ext', url: 'http://andrewsio.micro.blog/'}
+- {name: 'Micro.blog', path: 'ext', url: 'https://micro.andrews.io/'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
