@@ -8,11 +8,11 @@ menu:
 - {name: 'Archive', path: 'menu', url: 'archive.html'}
 
 link:
-- {name: 'Micro.blog', path: 'ext', url: 'https://andrewsio.micro.blog/'}
+- {name: 'Micro.blog', path: 'ext', url: 'http://andrewsio.micro.blog/'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {fa-type: 'fab', icon: 'microblog', link: 'https://andrewsio.micro.blog/'}
+- {fa-type: 'fab', icon: 'microblog', link: 'https://micro.andrews.io'}
 - {fa-type: 'fab', icon: 'twitter', link: 'https://twitter.com/14zz4'}
 - {fa-type: 'fas', icon: 'envelope', link: 'mailto:laurence@andrews.io'}
 - {fa-type: 'fas', icon: 'rss-square', link: '/feed.xml'}
