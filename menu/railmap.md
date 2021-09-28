@@ -9,11 +9,11 @@ A particular favourite route is Fort William to Mallaig on the Mallaig Extension
 
 The file is unfortunately quite large, so below is only a thumbnail, you can click [here][1] for a larger, zoomable version. I do my best to keep this up to date, keep an eye out for blog post or tweets. 
 
-![][photo-1]
+[![rail map](photo-1)][1]
 
 _The image above and linked document/image are copyright to National Rail and are hosted here for my own personal non-commercial purposes. My website generates no profit and I do not claim ownership. Originally sourced from:_ [here][2]
 
 
-[1]: /assets/rail_map/Master_Transit_Map.png
+[1]: /assets/train_map/Master_Transit_Map.png
 [2]: http://www.nationalrail.co.uk/stations_destinations/maps.aspx
 [photo-1]: /assets/img/import/4872c-rail_map.png
