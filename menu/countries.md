@@ -9,7 +9,7 @@ Below is a list of Countries and Territories which I have visited. I chose [this
 
 I'm still a little low on numbers, but I'm getting there..
 
-Total: 46/327
+Total: 47/327 (19.8%)
 =============
 
 
