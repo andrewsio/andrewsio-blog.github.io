@@ -40,7 +40,7 @@ Total: 46/327
 * 🇪🇸 [Canary Islands](/tag/canary-islands)
 * 🇮🇸 [Iceland](/tag/iceland)
 
-### Europe & Mediterranean (32/67)
+### Europe & Mediterranean (33/67)
 
 * 🇦🇹 [Austria](/tag/austria)
 * 🇪🇸 [Balearic Islands](/tag/balearic-islands) ([Mallorca](/tag/mallorca), [Minorca](/tag/minorca))
@@ -55,6 +55,7 @@ Total: 46/327
 * 🇫🇷 [France](/tag/france)
 * 🇩🇪 [Germany](/tag/germany)
 * 🇬🇮 [Gibraltar](/tag/gibraltar)
+* 🇬🇧 [Ireland, Northern](/tag/ireland)
 * 🇮🇪 [Ireland (Eire)](/tag/ireland)
 * 🇮🇹 [Italy](/tag/italy)
 * 🇯🇪 [Jersey (Channel Islands)](/tag/jersey)

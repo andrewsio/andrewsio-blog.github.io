@@ -14,6 +14,6 @@ The file is unfortunately quite large, so below is only a thumbnail, you can cl
 _The image above and linked document/image are copyright to National Rail and are hosted here for my own personal non-commercial purposes. My website generates no profit and I do not claim ownership. Originally sourced from:_ [here][2]
 
 
-[1]: https://s3-eu-west-1.amazonaws.com/14zz4-cdn/Master_Transit_Map.pdf
+[1]: /assets/rail_map/Master_Transit_Map.png
 [2]: http://www.nationalrail.co.uk/stations_destinations/maps.aspx
 [photo-1]: /assets/img/import/4872c-rail_map.png
