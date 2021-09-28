@@ -20,14 +20,14 @@ Total: 47/327 (19.8%)
 * 🇨🇦 [Canada](/tag/canada)
 * 🇲🇽 [Mexico](/tag/mexico)
 * 🇺🇸 [United States (continental)](/tag/united-states)
- - [Arizona](/tag/arizona) *(Airport only)*
- - [California](/tag/acalifornia)
- - [Illinois](/tag/illinois)
- - [Massachusetts](/tag/massachusetts)
- - [Missouri](/tag/missouri)
- - [Nevada](/tag/nevada)
- - [New Jersey](/tag/new-jersey)
- - [New York](/tag/new-york)
+  * [Arizona](/tag/arizona) *(Airport only)*
+  * [California](/tag/acalifornia)
+  * [Illinois](/tag/illinois)
+  * [Massachusetts](/tag/massachusetts)
+  * [Missouri](/tag/missouri)
+  * [Nevada](/tag/nevada)
+  * [New Jersey](/tag/new-jersey)
+  * [New York](/tag/new-york)
 
 ### Central America (0/7)
 
