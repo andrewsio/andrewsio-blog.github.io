@@ -1,6 +1,6 @@
 ---
-title:  "Dadblog - Week 33"
-date:   2021-09-25
+title:  "Dadblog - Week 37"
+date:   2021-10-18
 layout: post
 categories: blog
 tags: dadblog family baby
