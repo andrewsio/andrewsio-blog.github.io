@@ -34,4 +34,4 @@ Victoria is doing really well, although she reports that the final weeks are gra
 
 I'm still going in to the office a few days a week but from the end of this week am going to try and cut back and work just from home. There's a lot going on while I try and leave work in a place where I can disconnect for two or three weeks. No more scuba, sailing or being too far apart from now onwards either. There's no situation where I'm going to miss baby arriving!
 
-Hopefully there will be time for one more DadBlog before the big day. If not, wish us luck!
+Hopefully there will be time for one more DadBlog before the big day. If not, wish us luck!!
