@@ -5,7 +5,7 @@ layout: post
 categories: blog
 tags: dadblog family baby
 location: "Upnor, Kent, UK"
-image: /assets/img/baby-week-40-2.jpg
+image: /assets/img/week-40-2.jpg
 ---
 
 Well, we had hoped that by now baby would be with us! Seems it’s not time just yet…. Baby is still doing very well though, getting itself ready for the big day which is getting closer every minute that passes. Victoria is doing fine too and is coping very well, despite baby being really quite big!
