@@ -32,6 +32,8 @@
 
 */
 
+
+
 body {
   font-family: "Montserrat", sans-serif;
   font-size: 14px;
@@ -585,10 +587,12 @@ th, td {
 }
 
 /*! div style */
+/*! */
 .image-gallery {
  width: 100%;
  display: grid;
  grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
+ grid-column-gap: 15px;
  justify-content: center;
  padding: 4px;
 }
@@ -596,8 +600,8 @@ th, td {
 .box {
    flex-basis: 25%;
    width: 100%;
-   padding: 10px;
-   margin: 2px;
+   padding: 0px;
+   margin: 0px;
 }
 
 .img-gallery {
