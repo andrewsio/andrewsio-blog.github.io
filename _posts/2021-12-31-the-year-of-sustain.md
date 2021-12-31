@@ -5,7 +5,7 @@ layout: post
 categories: blog
 tags: theme year
 location: "Upnor, Kent, UK"
-image: /assets/img/2021-13.jpeg
+image: /assets/img/2021-13.jpg
 ---
 
 I didn't share this year's (2021's) theme on the blog until now - that was quite intentional, I wanted to keep things low key. But now we're done, I can share that 2021's yearly theme was 'The Year of Sustain' with the simple objective to keep tracking as we are, to sustain our pace, way of life and to keep doing what we're doing. The events of 2020, mostly as a result of Covid-19 made us stop, think and accept that we should take what we have for granted and that we should stop what was quickly becoming a continual and unhealthy pursuit for more.
