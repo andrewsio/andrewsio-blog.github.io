@@ -12,7 +12,7 @@ I didn't share this year's (2021's) theme on the blog until now - that was quite
 
 I'm really proud that we kept close to this year's theme and achieved it's objective. Never before have I felt like I appreciate what we have as much as I do now. And as a result, never before have I been happier with what we have, who we are and where we are in our lives. With that, 2021 brought us the biggest change, the birth of our daughter, Charlotte. Her arrival couldn't have been better timed.
 
-Here's my yearly summary, which I have to admit is a little longer than last years! Enjoy..
+Here's my yearly summary, which I have to admit is a little longer than last years! Enjoy...
 
 ## Covid
 
