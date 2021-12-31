@@ -7,6 +7,7 @@ Gemfile.lock
 .jekyll-cache/
 .jekyll-cache
 .jekyll-cache/Jekyll/Cache
+.obsidian/
 .DS_Store
 *.DS_Store
 .AppleDouble
