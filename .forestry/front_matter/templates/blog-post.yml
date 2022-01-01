@@ -31,5 +31,3 @@ fields:
 - type: text
   name: location
   label: Posting-From Location
-pages:
-- _posts/2022-01-01-test-post.md
