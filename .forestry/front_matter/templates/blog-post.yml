@@ -18,9 +18,10 @@ fields:
   label: Categories
   hidden: true
   default: blog
-- type: text
-  name: tags
-  label: Tags
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 - type: file
   name: image
   label: Header Image
