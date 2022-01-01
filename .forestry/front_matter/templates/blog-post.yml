@@ -31,4 +31,4 @@ fields:
   name: location
   label: Posting-From Location
 pages:
-- _posts/test-post.md
+- _posts/2022-01-01-test-post.md
