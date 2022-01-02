@@ -1,5 +1,5 @@
 _site
-_posts-drafts
+_drafts
 Gemfile.lock
 *.gem
 .sass-cache
