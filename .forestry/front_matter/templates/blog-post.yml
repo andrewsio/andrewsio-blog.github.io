@@ -31,3 +31,5 @@ fields:
 - type: text
   name: location
   label: Posting-From Location
+pages:
+- _posts/medway-2022-parks-challenge.md
