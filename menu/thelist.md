@@ -19,7 +19,7 @@ The List:
 1. ✅ Snowboard down a mountain
 1. Irresponsibly Gamble Money in Las Vegas
 1. Grow a Beard
-1. Start a Family
+1. ✅ Start a Family
 1. Travel on the Trans-Siberian Railway
 1. ✅ [Speak Publicly in Front of a Crowd][2]
 1. See Victoria Falls
@@ -28,7 +28,7 @@ The List:
 1. Pay off my Mortgage
 1. ✅ [Go to Munich Oktoberfest][11]
 1. ✅ [Ride in a Helicopter][3]
-1. Learn to Sail again
+1. ✅ Learn to Sail again
 1. ✅ Work Abroad
 1. Learn to Speak a Foreign Language
 1. Break a Bone (accidentally...)
