@@ -7,7 +7,7 @@ menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
 - {name: 'Blog', path: 'menu', url: 'archive.html'}
 - {name: 'Photos', path: 'menu', url: 'photos.html'}
-- {name: 'Rail Map', path: 'menu', url: 'mailmap.html'}
+- {name: 'Rail Map', path: 'menu', url: 'railmap.html'}
 - {name: 'The List', path: 'menu', url: 'thelist.html'}
 - {name: 'Countries', path: 'menu', url: 'countries.html'}
 
