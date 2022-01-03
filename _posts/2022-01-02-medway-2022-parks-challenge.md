@@ -8,7 +8,7 @@ tags:
 title: Medway 2022 Parks Challenge
 date: 2022-01-02 00:00:00 +0000
 image: "/assets/img/parks-challenge-1.jpg"
-history: 
+history:
 location: Upnor, Kent, UK
 
 ---
@@ -18,7 +18,7 @@ Medway Council publish a list of ‘[Country Parks, Open Spaces, Parks and Play 
 
 We’re going to call it **The 2022 Medway Parks Challenge**
 
-There are 75 parks on the Medway Council list, so it should be an achievable goal provided we visit more than one park a week. There are clearly a lot of parks missing, particularly those on the Hoo Peninsula, so perhaps we’ll be able to help the council update their information as part of this little challenge. Information is sometimes avaliable on parish council websites, but not always.
+There are 116 parks on the Medway Council list, so it should be an achievable goal provided we visit a few parks a week. There are clearly a lot of parks missing, particularly those on the Hoo Peninsula, so perhaps we’ll be able to help the council update their information as part of this little challenge. Information is sometimes available on parish council websites, but not always.
 
 Rules of the challenge are simple:
 - A visit counts as going to the park and spending at least 10 minutes there
@@ -27,4 +27,5 @@ Rules of the challenge are simple:
 - The challenge is complete when all of the parks on the Medway Council list have been visited in 2022
 - Additional parks can be added to the list but don’t count towards the goal
 
-To keep track, I'll add a seperate page on my blog which will keep information of each park. You should find a link here once I've set it all up.
+To keep track, I'll add a separate page on my blog which will keep information of each park. You should find a link here once I've set it all up.
+- [Link to Medway Parks Tracker](https://andrews.io/menu/medway-parks)
