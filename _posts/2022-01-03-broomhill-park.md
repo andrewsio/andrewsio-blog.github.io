@@ -1,15 +1,11 @@
 ---
 layout: post
 categories: blog
-tags:
-- medway
-- strood
-- parks
-- 2022-mpc
+tags: medway strood parks 2022-mpc
 title: Broomhill Park
 date: 2022-01-03 00:00:00 +0000
 image: "/assets/img/5e50bc96-ba62-4c54-a71e-050362ad53f0.jpeg"
-history: 
+history:
 location: Upnor, Kent, UK
 
 ---
