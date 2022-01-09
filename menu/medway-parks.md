@@ -25,7 +25,7 @@ Below is a list of the parks shown on the [Medway Council website](https://www.m
 * [Mill Hill Wood](https://www.medway.gov.uk/directory_record/278644/mill_hill_wood)
 * [Priestfields Recreation Ground and Play Area](https://www.medway.gov.uk/directory_record/694/priestfields_recreation_ground_and_play_area)
 * ⭐️[Ranscombe Farm Reserve](https://www.medway.gov.uk/directory_record/526/ranscombe_farm_reserve)
-* ⭐️[The Vines](https://www.medway.gov.uk/directory_record/2129/the_vines)
+* ✅⭐️[The Vines](https://www.medway.gov.uk/directory_record/2129/the_vines) - [Visited on 9th January 2022](https://andrews.io/blog/the-vines)
 * [Watts Meadow](https://www.medway.gov.uk/directory_record/482/watts_meadow)
 
 ## Chatham (36)
