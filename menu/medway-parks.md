@@ -12,7 +12,7 @@ Below is a list of the parks shown on the [Medway Council website](https://www.m
 * ✅ Park has been visited
 * 🌼 Park not included in the Council Directory
 
-## Rochester (14)
+## Rochester (114)
 * [Batys Marsh](https://www.medway.gov.uk/directory_record/278642/batys_marsh)
 * [Bishops Palace](https://www.medway.gov.uk/directory_record/278653/bishops_palace)
 * [Borstal Recreation Ground](https://www.medway.gov.uk/directory_record/689/borstal_recreation_ground)
