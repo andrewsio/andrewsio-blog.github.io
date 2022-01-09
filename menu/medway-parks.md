@@ -66,7 +66,7 @@ Below is a list of the parks shown on the [Medway Council website](https://www.m
 * [Whimbrel Walk Woods and Play Area](https://www.medway.gov.uk/directory_record/278624/whimbrel_walk_woods_and_play_area)
 * [Wills Lease](https://www.medway.gov.uk/directory_record/512/wills_lease)
 
-## Strood (1/11)
+## Strood (2/11)
 * ✅⭐️[Broomhill Park](https://www.medway.gov.uk/directory_record/721/broomhill_park) - [Visited on 3rd January 2022](https://andrews.io/blog/broomhill-park)
 * [Church Green Open Space](https://www.medway.gov.uk/directory_record/729/church_green_open_space)
 * [Cuxton Road Play Area](https://www.medway.gov.uk/directory_record/730/cuxton_road_play_area)
@@ -76,7 +76,7 @@ Below is a list of the parks shown on the [Medway Council website](https://www.m
 * [Laburnum Road Play Area](https://www.medway.gov.uk/directory_record/734/laburnum_road_play_area)
 * [Rede Common](https://www.medway.gov.uk/directory_record/278645/rede_common)
 * [Rushdean Road Play Area](https://www.medway.gov.uk/directory_record/736/rushdean_road_play_area)
-* [Strood Waterfront (Canal Road)](https://www.medway.gov.uk/directory_record/728/strood_waterfront_canal_road)
+* ✅[Strood Waterfront (Canal Road)](https://www.medway.gov.uk/directory_record/728/strood_waterfront_canal_road) - [Visited on 9th January 2022](https://andrews.io/blog/strood-waterfront)
 * [Temple Marsh](https://www.medway.gov.uk/directory_record/489/temple_marsh)
 
 ## Gillingham (45)
