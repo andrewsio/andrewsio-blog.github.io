@@ -12,7 +12,7 @@ Below is a list of the parks shown on the [Medway Council website](https://www.m
 * ✅ Park has been visited
 * 🌼 Park not included in the Council Directory
 
-## Rochester (114)
+## Rochester (1/14)
 * [Batys Marsh](https://www.medway.gov.uk/directory_record/278642/batys_marsh)
 * [Bishops Palace](https://www.medway.gov.uk/directory_record/278653/bishops_palace)
 * [Borstal Recreation Ground](https://www.medway.gov.uk/directory_record/689/borstal_recreation_ground)
@@ -79,7 +79,7 @@ Below is a list of the parks shown on the [Medway Council website](https://www.m
 * ✅[Strood Waterfront (Canal Road)](https://www.medway.gov.uk/directory_record/728/strood_waterfront_canal_road) - [Visited on 9th January 2022](https://andrews.io/blog/strood-waterfront)
 * [Temple Marsh](https://www.medway.gov.uk/directory_record/489/temple_marsh)
 
-## Gillingham (45)
+## Gillingham (1/45)
 * [Balmoral Gardens Play Area](https://www.medway.gov.uk/directory_record/706/balmoral_gardens_play_area)
 * [Bayswater Drive Play Area](https://www.medway.gov.uk/directory_record/741/bayswater_drive_play_area)
 * [Beechings Way Recreation Ground](https://www.medway.gov.uk/directory_record/701/beechings_way_recreation_ground)
@@ -101,7 +101,7 @@ Below is a list of the parks shown on the [Medway Council website](https://www.m
 * [Hempstead Recreation Ground](https://www.medway.gov.uk/directory_record/747/hempstead_recreation_ground)
 * [Henley Close Play Area](https://www.medway.gov.uk/directory_record/743/henley_close_play_area)
 * [Heritage Drive Play Area](https://www.medway.gov.uk/directory_record/710/heritage_drive_play_area)
-* ⭐️[Hillyfields Community Park](https://www.medway.gov.uk/directory_record/703/hillyfields_community_park)
+* ✅⭐️[Hillyfields Community Park](https://www.medway.gov.uk/directory_record/703/hillyfields_community_park) - [Visited on 15rd January 2022](https://andrews.io/blog/hillyfields)
 * [James Street Play Area](https://www.medway.gov.uk/directory_record/716/james_street_play_area)
 * [Kingsfrith Play Area](https://www.medway.gov.uk/directory_record/748/kingsfrith_play_area)
 * [Lamplighters Close Play Area](https://www.medway.gov.uk/directory_record/660/lamplighters_close_play_area)
