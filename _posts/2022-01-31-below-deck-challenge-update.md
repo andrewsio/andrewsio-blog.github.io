@@ -2,7 +2,7 @@
 layout: post
 categories: blog
 tags: life home
-title: The 2022 Below Deck Challenge
+title: Below Deck Challenge Update
 date: 2022-01-31 00:00:00 +0000
 history:
 location: Upnor, Rochester, UK
