@@ -9,7 +9,7 @@ Below is a list of Countries and Territories which I have visited. I chose [this
 
 I'm still a little low on numbers, but I'm getting there..
 
-Total: 47/327 (19.8%)
+Total: 48/327 (14.67%)
 =============
 
 
@@ -35,10 +35,11 @@ Total: 47/327 (19.8%)
 
 ### Caribbean (0/30)
 
-### Atlantic Ocean (2/13)
+### Atlantic Ocean (3/13)
 
 * 🇪🇸 [Canary Islands](/tag/canary-islands)
 * 🇮🇸 [Iceland](/tag/iceland) (2015)
+* 🇵🇹 [Madeira](/tag/madeira) (2022)
 
 ### Europe & Mediterranean (33/67)
 
