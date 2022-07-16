@@ -9,7 +9,7 @@ history:
 location: Upnor, Kent, UK
 ---
 
-Park #4 of **[The Medway Parks Challenge](https://andrews.io/menu/medway-parks.html)**, is another park that I somehow didn't know about, and our third Green Flag'er, Gillingham's Hillfields Community Park.
+Park #4 of **[The Medway Parks Challenge](https://andrews.io/pages/medway-parks.html)**, is another park that I somehow didn't know about, and our third Green Flag'er, Gillingham's Hillfields Community Park.
 
 The park consists of three sections, each at a different level, a sizeable play park on the lower part, on Parr Ave, a flat sports field and an upper orchard. The grounds are nestled between two primary schools, St Mary's Catholic School to the south and Saxon Way Primary School to the west. There's a third school, Rivermead a stone's throw away from the play park too, did some work there a while back, lovely old Victorian building. To the east there is a disused railway line that leads from the mainline to Chatham Docks. Don't really know why I didn't know about this park, I've certainly driven along this road a few times before but I guess I just never noticed it.
 

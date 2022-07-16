@@ -28,4 +28,4 @@ Rules of the challenge are simple:
 - Additional parks can be added to the list but don’t count towards the goal
 
 To keep track, I'll add a separate page on my blog which will keep information of each park. You should find a link here once I've set it all up.
-- [Link to Medway Parks Tracker](https://andrews.io/menu/medway-parks)
+- [Link to Medway Parks Tracker](https://andrews.io/pages/medway-parks)
