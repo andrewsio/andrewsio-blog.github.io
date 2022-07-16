@@ -5,7 +5,7 @@ tags: life home
 title: The 2022 Below Deck Challenge
 date: 2022-01-04 00:00:00 +0000
 history:
-location: Upnor, Rochester, UK
+location: Upnor, Kent, UK
 
 ---
 Not taking credit for the name of this one, that was all Victoria. Yes, another challenge, this is the year of all the twos after all. As regular readers will know, we use YNAB to keep track of our finances, YNAB is great and it's a very powerful tool for budgeting the future but it is also really useful for reporting on the past.
