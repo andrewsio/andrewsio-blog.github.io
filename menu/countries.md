@@ -97,6 +97,6 @@ Total: 47/327 (19.8%)
 * 🇲🇾 [Malaysia](/tag/malaysia) (2019)
 * 🇸🇬 [Singapore](/tag/singapore) (2017, 2018, 2019)
 * 🇹🇭 [Thailand](/tag/thailand) (2017)
-* 🇹🇷 [Turkey in Asia (Anatolia, Ankara, Izmir)](/tag/turkey)
+* 🇹🇷 [Turkey in Asia (Anatolia, Ankara, Izmir)](/tag/turkey) (2019)
 
 [1]: http://travelerscenturyclub.org/countries-and-territories
