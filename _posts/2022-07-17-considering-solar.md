@@ -24,7 +24,7 @@ Just before we moved in we signed up for a council run group buying scheme calle
 
 Another two months goes by and we get another email explaining that the originally selected supplier of the scheme has opted out (because of component shortages) and that a new supplier has been selected, Home Energy Direct. A new less expensive proposal was provided but the size of the battery was reduced to 3.2kWh (no idea why..._).
 
-![](/assets/img/considering-solar-1.jpg)
+![](/assets/img/considering-solar-2.jpg)
 
 Things then went quiet again...
 
