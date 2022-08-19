@@ -18,7 +18,7 @@ Since proceeding, the company have a big red banner explaining that they now hav
 
 Here's a bit of a summary on the specification that JPS recommended and what we opted for...
 
-##Panels
+## Panels
 JPS recommended [Tiger Neo all-black panels](https://jinkosolarcdn.shwebspace.com/uploads/JKM395-415N-54HL4-B-F1-EN.pdf) from Jinko Solar. Jinko is one of the largest manufacturers of PVs with a significant market share globally, they come with a 25 year product warranty and 30 year performance warranty. The panels are mono-crystalline, [half-cut](https://www.solarreviews.com/blog/half-cut-solar-cell-technology-explained) with 108 cells, rated at 415w and physically larger than those recommended by the other firms.
 
 The panels have some interesting tech; they have n-type cells (as opposed to the more popular p-type) which provides for a higher efficiency out of the box and over time, ([here's an article which explains the difference](https://solarmagazine.com/solar-panels/n-type-vs-p-type-solar-panels/)) and [a great site that explains the science](https://www.pveducation.org/pvcdrom/pn-junctions/doping). Essentially, the silicon is 'doped' with a different element to alter the number of electrons and holes in the semi-conductor. It's expected n-type will become far more popular in the years to come. The panels also feature SMBB technology, which is essentially a round-shaped multi-bus bar (the metal bit in a cell) rather than a typical square, the round shape results in the trapping/scattering of more light towards the silicon and thus further improves efficiency, ([here's an article which explains how that works, and gives some other commentary to the panels](https://solarwithyash.com/jinko-solar-panel/)).
@@ -29,7 +29,7 @@ The panels will each be mounted in a vertical orientation on the roof, in two ro
 
 I still don't think this will be enough, once we have an EV or two, install an ASHP, air-conditioning and have a grown-up daughter we won't have enough capacity. All of that will happen in the next ten years, so within the life of the system. We should however have additional roof space available on the extension which should give us and extra 30/40% of roof space, about what we would need. What's more, we could take the opportunity to sink the panels into the roof to free up the weathered roof tiles for the extension. sinking panels into the roof looks WAY better but not worth the additional installation cost unless there's construction/roof work going on.
 
-##Inverter
+## Inverter
 This was a big change in thinking.. JPS were quite up front in recommending [Enphase micro-inverters](https://enphase.com/en-gb) rather than a string inverter. There's lots of resources online comparing micro-inverters to string inverters so won't cover here. Essentially, micro-inverters are a small box which sits behind each panel to convert the DC to AC, principally eliminating the need for a single large unit that does the same and in doing so removing the need for DC current to run through the full string of PVs.
 
 There's a few advantages which I really like:
@@ -50,7 +50,7 @@ The model we'll be installing is the [IQ 7A](https://enphase.com/en-gb/installer
 
 The micro-inverter spec sheet seems to explain that a maximum of 10 units can be installed per section or per 20A circuit. But to be honest, I have no idea how they will be connected together. Speaking of which I also have no idea how we're going to manage the cable between upstairs and downstairs. It would have been ideal to install the cable in the exterior wall cavity, but we've since had insulation installed so that might not be possible. We'll wait for the survey to complete to understand. really hoping that we don't have to have a cable present externally as that won't look very good.  
 
-##Storage & AC-Coupled Inverter
+## Storage & AC-Coupled Inverter
 JPS recommended that we go with the [GivEnergy](https://www.givenergy.co.uk) product line for storage. GivEnergy are a UK-owned battery and inverter manufacturer with manufacturing in China with good presence and established local market share. JPS were quite up front explaining that our current needs don't necessitate much of a battery with an over-sized array. Before I really started researching I was expecting to at least install a battery which matched our daily consumption. I think over-rating the battery will be good, to help with odd days where there is low/no PV generation.
 
 We opted to install the [Giv-Bat 8.2](https://www.givenergy.co.uk/pdf/Version%202.0/Giv-Bat%208.2.pdf), a relatively new product in their lineup and the second largest battery on offer. It has some unique features typically only seen with the premium options on the market:
@@ -67,7 +67,7 @@ The inverter only comes with a 5-year warranty but is upgradable to 10-year with
 
 The inverter is smaller than the big inverter needed for a PV array, so can fit quite easily in the under-stair cupboard too. The GivEnergy platform also has its own app, online portal and open API.
 
-##Diverter
+## Diverter
 We mulled over whether it was worthwhile ordering an [Myenergi Eddi](https://myenergi.com/product/eddi/) but decided in the end to go for it. This is a device which diverts excess PV energy to an immersion element in the hot water tank, negating the need to use the gas-fired boiler to heat hot water. That excess PV energy would instead be going to the grid, earning not much money. There are a few different systems around, iBoost, Solic and the Eddi. They all do essentially the same thing, but with different hardware/software.
 
 We have a gravity-fed system in our 22-year old house. That was a desirable characteristic for us when we bought the house specifically because it will make installation of a diverter and later an ASHP installation easier. Yes, we may need to upgrade the boiler, hot water tank, etc, but that will be much simpler since the pipework is all in the right places. Our old house had a mains-pressure combi-boiler system and wouldn't have had the option of installing a diverter in this way. I also like the fact that if there is a mains water outage we have a limited supply of fresh water stored in the loft cistern. And yes, supply does fail and an incident [recently affected people on the Isle of Sheppy](https://www.bbc.co.uk/news/uk-england-kent-62148068) for several days during the hottest week of the year - no thanks!
@@ -76,6 +76,10 @@ Our hot water tank does need replacement soon, but not immediately - it'll be so
 
 The Eddi will connect back to a Harvi device installed in the under-stair cupboard so it can determine when it should consume excess power as the storage battery will also be trying to do the same thing. This is all wireless, but I have installed an ethernet cable just encase anyway.
 
-Our neighbour has a solar array and he also has a diverter installed. He said that in the summer months he basically doesn't use gas at all, just paying for the standing charge. This is good news, since heating hot water costs us about 36p a day, plus 26p standing charge for gas connection. If we can remove hot water heating from our gas consumption then that'll make moving to an ASHP in the future all the easier and remove the need for gas supply all together.
+Our neighbour has a solar array and he also has a diverter installed. He said that in the summer months he basically doesn't use gas at all, just paying for the standing charge. This is good news, since heating hot water costs us about 36p a day, plus 26p standing charge for gas connection.
 
-If we were to go ASHP, I have a romantic idea of a wood-burning stove with an integrated boiler (such as the [Woodfire CX8](https://www.stovesonline.co.uk/wood_burning_stoves/Woodfire-CX8-boiler-stove.html)) assisting with hot water production and central heating in the colder, winter months where efficiency of the ASHP and solar production will be very poor. I think those wood burners look really good, some something to consider for the extension, along with how we would install a flue.
+## Future Thinking on Heating
+
+Keen in the years to come to move to an ASHP, I have a romantic idea of a wood-burning stove with an integrated boiler (such as the [Woodfire CX8](https://www.stovesonline.co.uk/wood_burning_stoves/Woodfire-CX8-boiler-stove.html)) sitting in our downstairs living space. The stove from that boiler could assist with hot water production and central heating in the colder, winter months where efficiency of the ASHP is poor and solar production will be very low or possibly zero if it snows! I think those wood burners look really good and so some something to consider for the extension, along with how we would install a flue, possibly taking advantage of the natural air flow to hear our upstairs bedroom too. If we do take this I think we'd need a separate thermal store in addition to the hot water tank, some thinking on [how that might be achievable here](http://www.heatweb.co.uk/w/index.php?title=Integrating_Heat_Pumps_with_Thermal_Stores), essentially a plate heat exchanger is needed to produce hot water because ASHP would operate at a low temperature. Overall our goal is to remove entirely our dependence on gas as a heating source and to reduce the need for high electricity consumption through the ASHP during the winter months when generation is low.
+
+But that's the thinking... We'll stick with Solar for now. The rest can wait.
