@@ -1,4 +1,4 @@
-—
+———
 layout: post
 categories: blog
 tags: solar
@@ -7,7 +7,7 @@ date: 2022-10-26 00:00:00 +0000
 history:
 location: High Halstow, Kent, UK
 
-—
+——-
 
 Yes, I have been doing a terrible job of updating the blog. Sorry again. 
 
