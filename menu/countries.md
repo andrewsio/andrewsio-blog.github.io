@@ -9,7 +9,7 @@ Below is a list of Countries and Territories which I have visited. I chose [this
 
 I'm still a little low on numbers, but I'm getting there..
 
-Total: 48/327 (14.67%)
+Total: 49/327 (15%)
 =============
 
 
@@ -41,7 +41,7 @@ Total: 48/327 (14.67%)
 * 🇮🇸 [Iceland](/tag/iceland) (2015)
 * 🇵🇹 [Madeira](/tag/madeira) (2022)
 
-### Europe & Mediterranean (33/67)
+### Europe & Mediterranean (34/67)
 
 * 🇦🇹 [Austria](/tag/austria) (2015)
 * 🇪🇸 [Balearic Islands](/tag/balearic-islands) ([Mallorca](/tag/mallorca), [Minorca](/tag/minorca))
