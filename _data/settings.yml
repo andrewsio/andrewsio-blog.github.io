@@ -14,6 +14,7 @@ link:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {fa-type: 'fab', icon: 'mastodon', link: 'https://mastodon.world/@14zz4'}
 - {fa-type: 'fab', icon: 'microblog', link: 'https://micro.andrews.io'}
 - {fa-type: 'fab', icon: 'twitter', link: 'https://twitter.com/14zz4'}
 - {fa-type: 'fas', icon: 'envelope', link: 'mailto:laurence@andrews.io'}
