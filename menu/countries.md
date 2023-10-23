@@ -5,7 +5,7 @@ title: Countries
 
 Travelling over the last few years has developed into a bit of a hobby of mine. I really enjoy the excitement and trepidation of being in a strange, new place coupled with my long recognised joy for transportation, be it by air, land or sea. Many of you reading this will be familiar with my Bucket List which lists several specific locations that I'd love to see; the list isn't exhaustive because there are simply too many.
 
-Below is a list of Countries and Territories which I have visited. I chose [this list][1] as it seems to best represent unique places rather than a list of sovereign states or geographical countries. The list (January 2016) is formed by the Travlelers Century Club, an organisation of which a prerequisite to membership is having visited 100 of the locations. I consider a visit to a country against the same rules of that of the Century Club but denote where my visit wasn't beyond the airport or transit area.
+Below is a list of Countries and Territories which I have visited. I chose [this list][1] as it seems to best represent unique places rather than a list of sovereign states or geographical countries. The list (January 2016) is formed by the Travellers Century Club, an organisation of which a prerequisite to membership is having visited 100 of the locations. I consider a visit to a country against the same rules of that of the Century Club but denote where my visit wasn't beyond the airport or transit area.
 
 I'm still a little low on numbers, but I'm getting there..
 
@@ -39,13 +39,13 @@ Total: 50/327 (15.29%)
 
 * 🇪🇸 [Canary Islands](/tag/canary-islands)
 * 🇮🇸 [Iceland](/tag/iceland) (2015)
-* 🇵🇹 [Madeira](/tag/madeira) (2022)
+* 🇵🇹 [Madeira](/tag/madeira) (2022, 2023)
 
 ### Europe & Mediterranean (34/67)
 
-* 🇦🇹 [Austria](/tag/austria) (2015)
+* 🇦🇹 [Austria](/tag/austria) (2015, 2023)
 * 🇪🇸 [Balearic Islands](/tag/balearic-islands) ([Mallorca](/tag/mallorca), [Minorca](/tag/minorca))
-* 🇧🇪 [Belgium](/tag/belgium) (2019, 2021)
+* 🇧🇪 [Belgium](/tag/belgium) (2019, 2021, 2023)
 * 🇧🇬 [Bulgaria](/tag/bulgaria) (2019)
 * 🇭🇷 [Croatia](/tag/croatia) (2017)
 * 🇨🇿 [Czech Republic](/tag/czech-republic) (2014, 2016)
@@ -63,7 +63,7 @@ Total: 50/327 (15.29%)
 * 🇱🇹 [Lithuania](/tag/lithuania) (2019)
 * 🇲🇹 [Malta](/tag/malta)
 * 🇲🇨 [Monaco](/tag/monaco) (2016)
-* 🇳🇱 [Netherlands](/tag/netherlands) (2017, 2018)
+* 🇳🇱 [Netherlands](/tag/netherlands) (2017, 2018, 2023)
 * 🇳🇴 [Norway](/tag/norway) (2022)
 * 🇵🇹 [Portugal](/tag/portugal) (2015)
 * 🇷🇴 [Romania](/tag/romania) (2013)
