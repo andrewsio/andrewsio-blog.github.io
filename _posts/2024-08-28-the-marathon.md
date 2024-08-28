@@ -1,0 +1,67 @@
+---
+layout: post
+categories: blog
+tags: running
+title: London Marathon 2024
+date: 2024-08-28 00:00:00 +0000
+history: 2024-04-21
+location: London, UK
+image: "/assets/img/marathon-1.jpg"
+---
+
+A long-standing member of The List and one which as I've got a bit older I wondered wether I would actually ever get to - but here we are...  Most years I apply to the London Marathon ballot, but with the chances being something like 1 applicant in 25 getting a place, it's unlikely to get through. It is after all the most popular and applied-for marathon on the planet. The same was true in 2022 when I clicked through just like in years prior, I'd left it quite late applying, doing so on the 3rd October (encouraged by a friend at work). But on the 24th, the day of Charlotte's first day of nursery, I got a different result than most years.
+
+![](/assets/img/marathon-11.jpg)
+
+I am not a runner. So this was a little un-nerving, but also very exciting. The thought "Oh god, I'm going to have to do this bloody thing now, aren't I" had crossed my mind. It was a busy end to the year, there was a lot of life going on, we were still settling into our new home, work was busy, I was doing some travel, my grandfather passed away and Charlotte was growing up quickly. I made some half-hearted attempts at doing some training, but at the back of my mind I knew I wasn't invested enough. Deferral was somewhat inevitable. A bit of a shame. 
+
+You only get one shot at deferral, and so in August 2023 I set to work on some training. For two months I'd run more than I'd ever run before, I actually began to enjoy it. I wasn't very good, very fit or very fast but that didn't matter. For the first time, I felt like I was improving and that was a huge motivation and boost. Training waned in late October where frankly with the cold and rain it was a lot less fun running. In the new year I put renewed enthusiasm in and for the first time, ran some long distances. I put the time in, felt good for it and committed to the April 2024 date. It's fair to say I did not train like I should have, I have never trained for anything before and it's hard to know how effort now will reward later. All the books tell you that you need to be running a LOT, like, more than is achievable with a 2-year-old and full time job, so I did what I could. Victoria was very supportive which was a blessing. Towards April I felt relatively confident, I had done a 33km run at a 07:09/km pace. Slow, but an decent distance. I felt ready psychologically even if I knew my body wasn't really ready.
+
+![](/assets/img/marathon-2.jpg)
+
+On marathon day I took the train from Higham, into Maze Hill carrying just the things I needed in my assigned clear plastic drop-off bag. Victoria, Charlotte and Dad would meet me on the route over the day. We put together an intricate plan for several meeting points based on my target pace. This plan would prove more challenging than a buggy and dachshund would allow. I arrived quite early and sat around waiting, chewed through my Clif bar and waited for my assigned time slot. It was in the starting pen that I realised had made a grave error, where I was surrounded by people clearly much fitter and much faster than I, oops (I have have exaggerated my target time). There were a LOT of people but it was very well organised and there was a good spirit and atmosphere. Having had several hours of alone time to contemplate, I was excited but a little nervous that I had not quite prepared quite enough. I agreed with myself that the objective was to finish and key to doing so was not to run too fast, especially not at the start, slow and steady was the aim of the game. 
+
+![](/assets/img/marathon3.jpg)
+
+The start was fantastic - like nothing I'd ever experienced before. There were people lining the streets, music and signs of encouragement at every corner, nothing quite prepares of for this, it's absolutely surreal. It was empowering knowing that everyone else starting was on their own personal journey following months of training. Most were sponsored (which is another method of attaining a place), some with personal stories or pictures of loved ones pinned to their shirts. I started confidently and maintained a slightly faster than ideal pace (6:30/km), but I felt good and my heart rate remained sensible, I got into a comfortable rhythm. There were SO many people it was incredible. I had not realised prior, that this was more than a running event, it was literally a party across london. People were drinking, playing live music, shouting encouragement from megaphones offering all sorts of things to the runners, usually haribo or sweets. My favourte side attraction was a priest outside a church dousing runners in holy water. It was a little like a carnival except the floats were static and you were running past them. 
+
+![](/assets/img/marathon-4.jpg)
+
+I was supposed to see my support party at Cutty Sark and slowed slightly to try and see if I could spot them in the crowds of people. It was very difficult, there were so, so many people. I passed hoping that they had given up on the idea (it turns out they had). Things started to get a little wobbly at kilometer 19, two hours in, while passing through Bermondsey. I took a little moment or two to walk but quickly picked back up again. I knew I had a long, long way to go yet. Running over Tower Bridge was quite magical and I knew that it was coming up to the half-way point. I was now running and walking at intermittent points, although was doing my best to keep the walking to a minimum. I first saw Victoria at the entrance to Limehouse Basin and almost ran past them! Thankfully they all shouted and I went back. It was a huge boost at a time where I was beginning to wane. 
+
+![](/assets/img/marathon-5.jpg)
+
+I kept going, I was not familiar with this area at all but I knew that I still had all of the Isle of Dogs to go and was running away from the finish line, not towards it. I had needed the toilet for a few kilometers by now but they had all been busy and I didn't want to lose the time. At Milwall Slipway I was not in a good way, I was walking really quite a lot now and did not feel well, I was dizzy and was angry at myself that I had not trained harder. I stopped by a medical tent and sat in a porta-loo, I was a little worried I was going to faint which sounds rather dramatic, but it was a genuine worry! I questioned whether I could really continue. People talk about the wall, I don't know if this was it, but it certainly felt like it, perhaps more mental than physical. In the end I had a strong word with myself, and got back on the road, better to walk and finish than to give up and be forever cross with myself. 
+
+The run/walk strategy didn't feel great, but I knew that each step forward was closer to the end. I was continuing with the energy gels and was drinking water when I passed by the stands, going through docklands wasn't a highlight, it felt cold and the buildings made it uncomfortably loud. When I was walking, plenty of people shared words of encouragement, I recall a sikh man who must have been in his 60s running alongside me briefly telling me that if an old man like he could do it, so could I. That played back in my mind for many of the hours that followed - I needed to put my big boy pants on. There was a brief stop in the docklands, where the energy gels caught up with me and with a short pause by the by the side of the road, (which was still fully lined with people) I vomited bright orange sick onto the black tarmac. "Are you alright mate?!" truthfully, I felt quite far from it, but hey, I quickly scarpered from the scene. 
+
+![](/assets/img/marathon-6.jpg)
+
+Getting out of docklands and passing Billingsgate was a relief, turning left meant that I was now running towards the finish line and leaving the island(?) behind was a mental boost. The new problem was my feet which were beginning to experience a struggle all of their own. I unfortunately tend to have a bit of a problem with my little toe which I'm led to believe is called "adductovarus toe", basically my two little toes flap under their neighbour. This is almost certainly caused by wearing shoes but normally isn't a problem. Unfortunately when I run or do a lot of walking I end up developing a blister on the little toe. It's a bit gross, but I almost permanently have a blister or the remainder of a blister here, typically on my right foot. I knew this would be an issue so wrapped my right little toe. Typically, today it was my left foot causing issues. Every stride was painful, it felt like I had no skin left on my toe it was that painful. But I knew there was nothing that could be done and no whinging would make it better, so pushed on.  
+
+Note: You do not want to see a picture of my toe.  
+
+I picked up a little and saw everyone again when passing Limehouse. Grace and Luke had now joined them which was a really pleasant surprise. I kissed Charlotte, dumped my annoying headphones and moved on with an extra boost. For the distance remaining from this point to the finish it should not have felt as long as it did, but it seemed to go on and on. I passed a pub stand which was handing out free beer to runners - that was harder to reject than the haribo. Reaching embankment was positive, I had run this route before and I knew that it wasn't far to go. I was still walking intermittently, not because my heart rate was high, but because I was just so physically drained. 
+
+![](/assets/img/marathon-10.jpg)
+
+Passing under Waterloo Bridge was painful, the noise was incredible and I know I sound like an old man it was genuinely painful! Heading into Big Ben I saw a girl in front of me embrace her family with all of them in tears "We're so, so, proud of you Emily, you're doing amazing, you can do it, we love you, keep going", she was in pieces and I almost choked up myself. She stumbled forward wiping tears away with her sleeve. This event really is something. The final push along birdcage walk I saw a dad in a similar emotional state, he saw his partner on the side and lifted his two small children into his arms and ran with them under each arm to the finish. I don't quite know how he had the energy or strength to do that! Again, very emotional. 
+
+![](/assets/img/marathon-7.jpg)
+
+Crossing the line was an enormous sense of relief, I had done it. Looking back at the photos, I crossed the line disappointed, I knew I could have done better. I collected my medal and was desperate to see everyone. I sat down on the side of the Mall and caught my breath. I was not in a good way, my feet were destroyed and walking was painful, I'd never felt so drained of energy. It's difficult to describe how many people there were in London, it was absolutely packed. Everyone re-grouped at the corner of Horseguards and The Admiralty Citadel. I sat on the gravel ground and wanted nothing more than to be transported into my bed! We had agreed prior to go and have a beer at BrewDog, that was the last thing I wanted so threw those plans out of the window. No complaints from the support party who having traveled across a packed london with a buggy, 2-year-old and a dachshund were ready to go home too!
+
+![](/assets/img/marathon-8.jpg)
+
+On the train home a bloke offered me his seat, I think it was pretty clear that I needed a sit down! We got home and had a curry, a beer and an early bath and bed. That's another ticked off the list. 
+
+![](/assets/img/marathon-9.jpg)
+
+Going into the day I had a three soft goals: 
+1. I wanted to feel like I had 'run it', this was non-negotiable, I did not want to be one of the people (no disrespect to them) that walks most of the way round, it's a running race, I needed to run. Garmin tells me that I spent 4hrs 25mins running and 52mins walking. of the 317min total duration, I spent 16.5% of it walking. So I think I'll take that. If I ever got the chance to do it all again, I'd almost certainly get this lower, but I think it was probably fair. In hindsight, I reckon I could have pushed a little harder and dropped at least a third of the walking, and have got my time closer to 5 hours. 
+2. Complete it in 5 hours or less. That's just above the baseline time for a 35 year old male absolute beginner (I'm led to believe). 4hrs 30 was my "I'm really happy with that, time". With more training, the better time would have been achievable, but I think it would have taken really quite a lot more training. In the end, 5hrs 22mins wasn't too bad.
+3. Whatever happens, finish the bloody thing. 
+
+Optimistically I applied for the 2025 marathon, I didn't get in and that's probably for the best. A huge thank you to Grace, Luke, Bruno, Victoria, Charlotte, Dad and Dexter for supporting across the day and beyond. Grace in particular has been a huge source of inspiration for making this possible, I'm quite certain I would not have done this without her demonstrating that it is possible and encouraging through RunThrough events (Battersea 10k in the rain!). Training for this was no small feat and while I recognise I needed more, I took a lot of time out of our calendars and that meant stepping back from Charlotte duty in favour of running - thank you for Victoria for accommodating! Did I mention we also had no house? 
+
+If you ever get the chance to do this... Do it. Even if you're not a runner. One of the most incredible things I've ever done. 

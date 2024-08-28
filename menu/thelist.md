@@ -28,7 +28,7 @@ The List:
 1. Pay off my Mortgage
 1. ✅ [Go to Munich Oktoberfest][11]
 1. ✅ [Ride in a Helicopter][3]
-1. ✅ Learn to Sail again
+1. ✅ [Learn to Sail again][13]
 1. ✅ Work Abroad
 1. Learn to Speak a Foreign Language
 1. Break a Bone (accidentally...)
@@ -38,7 +38,7 @@ The List:
 1. ✅ [Go Interailing Around Europe][9]
 1. Visit a Country that the [FCO][5] advise against
 1. ✅ [Go Scuba Diving][6]
-1. Run the London (or some other) Marathon
+1. ✅ [Run the London (or some other) Marathon][12]
 1. ✅ [Visit Istanbul, Turkey][7]
 1. ✅ [Visit the Red Square, Moscow][8]
 1. Complete this list
@@ -56,4 +56,6 @@ The List:
 [9]: /tag/inter-rail
 [10]: /tag/getting-married
 [11]: /tag/oktoberfest
+[12]: /blog/the-marathon
+[13]: /tag/sailing
 [photo-1]: /assets/img/import/98719-dubrovnik_laurence.jpg
