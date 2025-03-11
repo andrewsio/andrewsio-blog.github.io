@@ -17,7 +17,7 @@ Total: 51/327 (15.59%)
 
 ### North America (3/6)
 
-* 🇨🇦 [Canada](/tag/canada) (2015)
+* 🇨🇦 [Canada](/tag/canada) (2015, 2025)
 * 🇲🇽 [Mexico](/tag/mexico) (2013, 2014, 2016)
 * 🇺🇸 [United States (continental)](/tag/united-states) (2014, 2015, 2016, 2017, 2020)
   * [Arizona](/tag/arizona) *(Airport only)*
@@ -83,7 +83,7 @@ Total: 51/327 (15.59%)
 
 ### Africa (2/55)
 
-* 🇲🇦 [Morocco](/tag/morocco) (2012)
+* 🇲🇦 [Morocco](/tag/morocco) (2012, 2025)
 * 🇪🇬 [Egypt in Africa](/tag/egypt) (2017, 2018)
 
 ### Middle East (2/21)
